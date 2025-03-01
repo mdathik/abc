@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(180, 219, 217);
+}
+.container{
+    width: 400px;
+    height: 400px;
+    border: 1px solid rebeccapurple;
+    border-radius:20px;
+    position: absolute;
+    left: 500px;
+    top: 100px;
+}
+.one{
+    white-space: pre;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+.one label{
+    padding: 10px;
+}
+h2{
+    text-align: center;
+}
+.two{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+.in{
+    padding: 10px;
+    width: 250px;
+    border-radius: 10px;
+}
+.two input{
+    padding: 10px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    cursor: pointer;
+}
+.text{
+    font-size: 20px;
+}
+.fp a{
+	padding-left: 30px;
+}
